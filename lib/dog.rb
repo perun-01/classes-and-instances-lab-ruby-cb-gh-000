@@ -2,11 +2,11 @@ class Dog
 end
 
 fido = Dog.new
-snoopy = new.Dog
-lassie = new.Dog
+snoopy = Dog.new
+lassie = Dog.new
 
 class Person
 end
 
-adele_goldberg = new.Person
-alan_kay = new.Person
+adele_goldberg = Person.new
+alan_kay = Person.new
